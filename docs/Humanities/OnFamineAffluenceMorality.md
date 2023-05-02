@@ -1,4 +1,4 @@
-# Notes on "Famine Affluence and Morality"
+# Famine Affluence and Morality
 
 ## Vocabulary
 - Supererogatory: when its good but not morally required to be done
