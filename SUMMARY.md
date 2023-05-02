@@ -1,3 +1,3 @@
-- AnalystsAlgebraists.md
-- DefHomoiconic.md
-- OnFamineAffluenceMorality.md
+- [Humanities 📚](Humanities/)
+- [Computing 💻](Computing/)
+- [Science 🧬](Science/)
