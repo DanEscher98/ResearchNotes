@@ -1,11 +1,5 @@
 # Famine Affluence and Morality
 
-## Vocabulary
-- Supererogatory: when its good but not morally required to be done
-    [Matthew 5:38-48](https://my.bible.com/bible/2015/MAT.5.41)
-- Famine: (ES) hambruna
-
-
 ## Argument (Esperanto)
 - Definitions:
     - `X := morto pro malzato aŭ mizero`
@@ -30,6 +24,13 @@ of the ordinary man, for otherwise there will be a general breakdown of
 compliance with the moral code.
 
 
+## Glosary
+- Supererogatory: when its good but not morally required to be done
+    [Matthew 5:38-48](https://my.bible.com/bible/2015/MAT.5.41)
+- Famine: :flag_es: hambruna
+
+
 ## References
-- [Peter Singer (1972)](https://personal.lse.ac.uk/robert49/teaching/mm/articles/Singer_1972Famine.pdf)
-- [Ordinary people are evil (YouTube)](https://youtu.be/KVl5kMXz1vA)
+- [:simple-youtube: Ordinary people are evil](https://youtu.be/KVl5kMXz1vA)
+- [:bookmark_tabs: Famine, Affluence, and Morality - Peter Singer (1972)](https://personal.lse.ac.uk/robert49/teaching/mm/articles/Singer_1972Famine.pdf)
+- [:bookmark_tabs: Saint and Heroes - Elizabeth M.Pybus (2009)](https://www.cambridge.org/core/journals/philosophy/article/abs/saints-and-heroes/1E469447C385C142A35CDD5E7FA1808C)
