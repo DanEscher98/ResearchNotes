@@ -1,3 +1,0 @@
-# Praefatio
-
-Research Notes

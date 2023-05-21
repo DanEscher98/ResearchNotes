@@ -1,3 +1,0 @@
-- [Humanities 📚](Humanities/)
-- [Computing 💻](Computing/)
-- [Science 🧬](Science/)
