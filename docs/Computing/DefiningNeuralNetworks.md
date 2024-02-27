@@ -5,4 +5,5 @@
 - [:simple-youtube: Why Neural Networks aren't Neural Networks - Sam Sartor]()
 - [:simple-youtube: But what is a neural network REALLY? - AlgorithmicSimplicity]()
 - [:simple-youtube: Neural Networks (playlist) - 3Blue1Brown]()
+- [:simple-youtube: Brain Criticality - Optimizing Neural Computations](https://youtu.be/vwLb3XlPCB4)
 
